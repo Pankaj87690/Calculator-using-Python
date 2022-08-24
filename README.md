@@ -1,2 +1,2 @@
-# Age_Gender_Detector
-Simple age and gender detector using Machine Learning
+# Simple-Calculator
+Simple Calculator using Tkinter
